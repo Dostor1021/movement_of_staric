@@ -1,0 +1,14 @@
+C:\Users\aaa\source\repos\movement of staric\movement of staric\bin\Debug\net8.0\movement of staric.exe
+C:\Users\aaa\source\repos\movement of staric\movement of staric\bin\Debug\net8.0\movement of staric.deps.json
+C:\Users\aaa\source\repos\movement of staric\movement of staric\bin\Debug\net8.0\movement of staric.runtimeconfig.json
+C:\Users\aaa\source\repos\movement of staric\movement of staric\bin\Debug\net8.0\movement of staric.dll
+C:\Users\aaa\source\repos\movement of staric\movement of staric\bin\Debug\net8.0\movement of staric.pdb
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.AssemblyInfoInputs.cache
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.AssemblyInfo.cs
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.dll
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\refint\movement of staric.dll
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.pdb
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\movement of staric.genruntimeconfig.cache
+C:\Users\aaa\source\repos\movement of staric\movement of staric\obj\Debug\net8.0\ref\movement of staric.dll
