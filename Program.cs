@@ -13,7 +13,7 @@ class Program
 
         while (true)
         {
-            ConsoleKey key = Console.ReadKey().Key;
+            ConsoleKey key = Console.ReadKey(true).Key;
 
 
             removeAsteric(x, y);
